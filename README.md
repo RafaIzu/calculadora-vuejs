@@ -19,4 +19,4 @@
 <h3>Instruções de uso:</h3>
 <p>O aplicativo é bem simples e intuitivo. Basicamente seu modo de uso já foi descrito anteriormente na parte "Sobre o projeto".</p>
 
-<p>></p>
+
